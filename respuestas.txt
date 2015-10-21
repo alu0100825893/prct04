@@ -1,0 +1,1 @@
+RVM es una herramienta de software que sirve para poder utilizar diferentes versiones de ruby en un mismo sistema.
